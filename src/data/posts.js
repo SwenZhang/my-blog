@@ -5,7 +5,7 @@ export const posts = [
     excerpt: '为什么大模型推理要分成两个阶段？从张量形状、KV Cache 和性能瓶颈逐步理解。',
     category: '大模型推理',
     date: '2026-09-16',
-    readingTime: '8 分钟',
+    readingTime: '7 分钟',
     featured: true,
     content: `
       <p class="lead">大模型生成并不是一次完成整段答案，而是先处理输入，再逐个生成新 token。这对应 Prefill 和 Decode 两个阶段。</p>
