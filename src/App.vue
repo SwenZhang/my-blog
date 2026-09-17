@@ -24,7 +24,7 @@ watch(theme, applyTheme)
     <footer class="site-footer">
       <div class="container footer-inner">
         <p>© 2026 SwenZhang · 用文字沉淀技术，用实验验证想法。</p>
-        <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub ↗</a>
+        <a href="https://github.com/SwenZhang/my-blog/" target="_blank" rel="noreferrer">GitHub ↗</a>
       </div>
     </footer>
   </div>
